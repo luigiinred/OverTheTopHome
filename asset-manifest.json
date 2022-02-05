@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/over-the-top-home/static/css/main.073c9b0a.css",
+    "main.js": "/over-the-top-home/static/js/main.ee11c483.js",
+    "static/js/787.6932aeb9.chunk.js": "/over-the-top-home/static/js/787.6932aeb9.chunk.js",
+    "static/media/logo.svg": "/over-the-top-home/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/over-the-top-home/index.html",
+    "main.073c9b0a.css.map": "/over-the-top-home/static/css/main.073c9b0a.css.map",
+    "main.ee11c483.js.map": "/over-the-top-home/static/js/main.ee11c483.js.map",
+    "787.6932aeb9.chunk.js.map": "/over-the-top-home/static/js/787.6932aeb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ee11c483.js"
+  ]
+}
